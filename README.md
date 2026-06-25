@@ -1,4 +1,4 @@
-# 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation
+# 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation    
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Access previous years' question papers to:
 * Practice time management
 * Improve preparation strategies
 
-📂 Contents:
+📂 Contents::
 
 * Previous Year Question Papers
 * Semester-wise Papers
@@ -45,7 +45,7 @@ Access previous years' question papers to:
 
 Detailed solutions and explanations for various subjects.
 
-### Benefits:
+### Benefits::
 
 * Better conceptual understanding
 * Step-by-step explanations
