@@ -7,13 +7,13 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![Students](https://img.shields.io/badge/Built%20For-Students-blue?style=for-the-badge)
 
-### 🚀 Your One-Stop Destination for Academic Excellence & Career Growth              
+### 🚀 Your One-Stop Destination for Academic Excellence & Career Growth                     
 
 </div>
 
 ---
 
-## 📖 About This Repository
+## 📖 About This Repository------
 
 Welcome to the **Student Resource Hub** — a comprehensive collection of academic resources, coding materials, projects, interview preparation content, and learning roadmaps designed to help students excel in their educational and professional journey.
 
