@@ -1,4 +1,4 @@
-# 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation    
+# 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation -----   
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![Students](https://img.shields.io/badge/Built%20For-Students-blue?style=for-the-badge)
 
-### 🚀 Your One-Stop Destination for Academic Excellence & Career Growth                     
+### 🚀 Your One-Stop Destination for Academic Excellence & Career Growth -----                
 
 </div>
           
