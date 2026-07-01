@@ -178,7 +178,7 @@ Everything you need to prepare for internships and placements.
 * Logical Reasoning
 * Verbal Ability
 
-### Technical Preparation
+### Technical Preparation -----
 
 * DSA Interview Questions
 * Core Subject Questions
