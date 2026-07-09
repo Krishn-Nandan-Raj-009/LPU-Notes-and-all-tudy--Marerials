@@ -1,4 +1,4 @@
-# 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation -----   
+# 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation -----  
 
 <div align="center">
 
