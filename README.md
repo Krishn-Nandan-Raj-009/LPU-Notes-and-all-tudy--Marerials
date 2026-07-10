@@ -1,7 +1,7 @@
 # 🎓 Student Resource Hub – Exam Papers, Notes, Projects & Placement Preparation -----  
 
 <div align="center">
-
+     
 ![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
