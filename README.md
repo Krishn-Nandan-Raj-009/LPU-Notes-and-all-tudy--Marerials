@@ -82,7 +82,7 @@ Well-organized notes for quick learning and revision.
 
 ---
 
-## 💻 Programming & Coding Resources
+## 💻 Programming & Coding Resources -----
 
 Learn coding from beginner to advanced levels.
 
